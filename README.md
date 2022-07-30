@@ -1,6 +1,6 @@
 # TodoList App
 
-This project Use JSON-Server as backend, And use RTK Query to make requests.
+This project Use JSON-Server as backend, And use RTK Query to make requests to the server.
 
 You can add, delete, check, uncheck your goals. 
 
