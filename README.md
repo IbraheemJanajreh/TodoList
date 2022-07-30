@@ -1,8 +1,8 @@
 # TodoList App
 
+This Project Use JSON-Server as backend, And use RTK Query to make requests
 
-
-### Install Dependencies (frontend & backend)
+### Install Dependencies
 ```
 npm install
 ```
